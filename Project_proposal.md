@@ -6,7 +6,7 @@
  - Princewill
 
 ## Project description
-We want to determine the flood depth estimation and visualization using python package (Geopandas)
+We want to Learn and use Folio for Visualization
 ## Goals (individual and Collective)
 
 ### Joshua
