@@ -6,16 +6,14 @@ folium builds on the data wrangling strengths of the Python ecosystem and the ma
 
 Installation
 $ pip install folium
+
 or
 
 $ conda install -c conda-forge folium
 Documentation
 https://python-visualization.github.io/folium/latest/
 
-Contributing
-We love contributions! folium is open source, built on open source, and we'd love to have you hang out in our community.
-
-See our complete contributor's guide for more info.
+ folium is open source, built on open source, you can follow the guide for more info.
 
 Changelog
 Release notes of v0.16.0 and higher: https://github.com/python-visualization/folium/releases
