@@ -1,5 +1,6 @@
 folium
 
+![folium_logo (1)](https://github.com/user-attachments/assets/0a69cb4d-04dd-47be-bde5-66f1ede44e18)
 
 Python Data, Leaflet.js Maps
 folium builds on the data wrangling strengths of the Python ecosystem and the mapping strengths of the Leaflet.js library. Manipulate your data in Python, then visualize it in a Leaflet map via folium.
