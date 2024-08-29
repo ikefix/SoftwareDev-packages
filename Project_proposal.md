@@ -10,7 +10,7 @@ We want to Learn and use Folio for Visualization
 ## Goals (individual and Collective)
 
 ### Joshua
-He is responsible for providing data and documentation of the projects
+He is responsible for providing data and documentation of the project
 
 ### Olayinka
 He will work on flood depth estimation 
