@@ -6,7 +6,7 @@
  - Princewill
 
 ## Project description
-We want to Learn and use Folio for Visualization
+We want to Learn and use Folio for Visualizations
 ## Goals (individual and Collective)
 
 ### Joshua
