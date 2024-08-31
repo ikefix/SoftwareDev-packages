@@ -13,7 +13,7 @@ We want to Learn and use Folio for Visualization
 He is responsible for providing data and documentation of the project
 
 ### Olayinka
-He will work on flood depth estimation
+He will work on flood depth estimations here
 
 ### Princewill
 He is responsible for visualization of the flood vulnerability using folium
